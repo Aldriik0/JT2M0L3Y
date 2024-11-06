@@ -16,7 +16,7 @@
 ## 👋 Introduction
 
 <p>Hello!</p>
-<p>I'm Jonathan, an aspiring software engineer, baseball enthusiast, and student deciding my next steps.</p>
+<p>I'm Connor, an aspiring software engineer, baseball enthusiast, and student deciding my next steps.</p>
 <p>I've done a fair bit with full-stack development, object-oriented programming, and DevOps.</p>
 <p>However, I also have experience with embedded systems, cybersecurity, and machine learning.</p>
 
