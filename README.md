@@ -1,20 +1,14 @@
-<a href="https://www.github.com/JT2M0L3Y">
-  <img 
-    width=100% 
-    src=./assets/profile-img.gif 
-    alt="Jonathan's GitHub Banner"
-  />
-</a>
+
 
 <!-- Clickable Badges -->
-[![Visits Badge](https://badges.pufler.dev/visits/JT2M0L3Y/JT2M0L3Y)](https://www.github.com/JT2M0L3Y)
-[![Quote Update Status](https://www.github.com/JT2M0L3Y/JT2M0L3Y/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/JT2M0L3Y/JT2M0L3Y/actions)
+[![Visits Badge](https://badges.pufler.dev/visits/Aldriik0/Aldriik0)](https://www.github.com/Aldriik0)
+[![Quote Update Status](https://www.github.com/Aldriik0/Aldriik0/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/Aldriik0/Aldriik0/actions)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/jonathansmoley/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram&logoColor=e4405f)](https://www.instagram.com/jonathansmoley/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=social&logo=facebook&logoColor=4267B2)](https://www.facebook.com/jonathansmoley.1/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=gray)](https://leetcode.com/JT2M0L3Y/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=gray)](https://leetcode.com/Aldriik0/)
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=gray)](https://app.hackthebox.com/profile/801410)
 
 [![Flickr Badge](https://img.shields.io/badge/Flickr-informational?style=flat&logo=flickr&logoColor=FF0084&color=gray)](https://www.flickr.com/people/198498782@N02/)
@@ -30,14 +24,9 @@
 
 ## ⚒️ Active Projects
 
-<a href="https://github.com/kevinthedang/discord-ollama">
+<a href="https://github.com/Aldriik0/Aldriik0.github.io">
   <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=gruvbox"/>
-</a>
-
-<a href="https://github.com/JT2M0L3Y/jt2m0l3y.github.io">
-  <img align="center" style="margin:1rem 0.5rem"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JT2M0L3Y&repo=jt2m0l3y.github.io&theme=gruvbox"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Aldriik0&repo=Aldriik0.github.io&theme=gruvbox"/>
 </a>
 
 <!-- GitHub Stats -->
@@ -46,14 +35,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api?username=JT2M0L3Y&rank_icon=percentile&number_format=short&hide=stars,contribs,prs&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api?username=Aldriik0&rank_icon=percentile&number_format=short&hide=stars,contribs,prs&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox"
   />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img
     height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JT2M0L3Y&hide=Makefile,CMake,EJS,Sage,Kotlin,Assembly,CSS,HTML,Jupyter%20Notebook&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Aldriik0&hide=Makefile,CMake,EJS,Sage,Kotlin,Assembly,CSS,HTML,Jupyter%20Notebook&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
   />
 </a>
 
@@ -66,13 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=60rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=45rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=45rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=60rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=45rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width=45rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" width=45rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust" width=50rem />
 </ul> 
 
 ### Frameworks, Libraries
