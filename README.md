@@ -4,9 +4,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Aldriik0/Aldriik0)](https://www.github.com/Aldriik0)
 [![Quote Update Status](https://www.github.com/Aldriik0/Aldriik0/actions/workflows/quote-injection.yml/badge.svg)](https://github.com/Aldriik0/Aldriik0/actions)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/jonathansmoley/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram&logoColor=e4405f)](https://www.instagram.com/jonathansmoley/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=social&logo=facebook&logoColor=4267B2)](https://www.facebook.com/jonathansmoley.1/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/connorljones/)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=gray)](https://leetcode.com/Aldriik0/)
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=gray)](https://app.hackthebox.com/profile/801410)
@@ -18,9 +16,9 @@
 ## 👋 Introduction
 
 <p>Hello!</p>
-<p>I'm Jonathan, an aspiring software engineer, novice photographer, and committed traveler.</p>
+<p>I'm Jonathan, an aspiring software engineer, baseball enthusiast, and student deciding my next steps.</p>
 <p>I've done a fair bit with full-stack development, object-oriented programming, and DevOps.</p>
-<p>However, I also have experience with cybersecurity, cloud computing, and machine learning.</p>
+<p>However, I also have experience with embedded systems, cybersecurity, and machine learning.</p>
 
 ## ⚒️ Active Projects
 
@@ -61,11 +59,6 @@
 
 ### Frameworks, Libraries
 <ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width=50rem />
@@ -78,25 +71,12 @@
 <ul>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=60rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=50rem />    
-</ul>
-
-### Cloud, Hosting, Server
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width=45rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=60rem />
 </ul>
 
 ### CI/CD, SaaS, Testing
 <ul>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=60rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width=50rem />
@@ -107,11 +87,9 @@
 <ul>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width=50rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width=50rem />
 </ul>
 
 ### Version Control, Package Managers
@@ -121,7 +99,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width=55rem />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width=50rem />
 </ul>
 
 ### Operating Systems
@@ -133,17 +110,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width=50rem />
 </ul>
 
-### Collaboration
-<ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width=40rem />
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=40rem />
-</ul>
 
-## 📯 How about a cheeky quote?
-
-<p>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</p>
-
-<p>- Stephen King</p>
 
 Check back daily for a new quote!
 
