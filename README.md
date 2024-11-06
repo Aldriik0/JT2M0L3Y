@@ -7,11 +7,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/connorljones/)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=#d16c06&color=gray)](https://leetcode.com/Aldriik0/)
-[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=lime&color=gray)](https://app.hackthebox.com/profile/801410)
 
-[![Flickr Badge](https://img.shields.io/badge/Flickr-informational?style=flat&logo=flickr&logoColor=FF0084&color=gray)](https://www.flickr.com/people/198498782@N02/)
-[![Steam Badge](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=232633&color=gray)](https://steamcommunity.com/id/Kaedowjan/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=flat&logo=youtube&logoColor=C4302b&color=gray)](https://www.youtube.com/channel/UCWYFmvu7mBQzwhG29mJWiKQ)
 
 ## 👋 Introduction
 
